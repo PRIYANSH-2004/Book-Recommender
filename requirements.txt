@@ -1,4 +1,9 @@
 flask 
 numpy 
+<<<<<<< HEAD
 # pickle
 pandas
+=======
+#pickle
+pandas
+>>>>>>> 85e3bcc60852d1b8f6ef36c07895272a3128e18b
