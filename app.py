@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
 import numpy as np
+import pandas as pd
 import pickle
 
 popular_df = pickle.load(open('popular_df.pkl', "rb"))
